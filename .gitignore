@@ -1,0 +1,11 @@
+# Logs 
+*.Log
+backup.Log
+# Temp backup without extension
+backup_v2
+backup/
+# OS files 
+.DS_Store
+Thumbs.db
+# OneDrive lock 
+*.tmp
